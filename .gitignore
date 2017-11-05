@@ -99,3 +99,16 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Ide preference
+/.idea
+/.idea/
+/.idea/*
+
+# PyCache
+/__pycache__
+
+# Venv
+/venv/
+/venv/*
+
